@@ -1,0 +1,70 @@
+=== PREPROCESSING PIPELINE STARTED ===
+Loaded raw file: a_05_01_26_19_13.csv
+Appending with processed data: cleaned_v0_25_12_25_17_43.csv
+
+--- DATA SUMMARY ---
+Shape: (606, 19)
+
+Missing values:
+age            0
+sex            0
+trestbps       0
+chol           0
+fbs            0
+thalach        0
+exang          0
+oldpeak        0
+slope          0
+ca             0
+age_bin        0
+cp_2.0         0
+cp_3.0         0
+cp_4.0         0
+restecg_1.0    0
+restecg_2.0    0
+thal_6.0       0
+thal_7.0       0
+target         0
+dtype: int64
+
+Target distribution:
+target
+0    328
+1    278
+Name: count, dtype: int64
+
+Describe:
+              age         sex    trestbps        chol  ...     oldpeak       slope          ca      target
+count  606.000000  606.000000  606.000000  606.000000  ...  606.000000  606.000000  606.000000  606.000000
+mean    54.438944    0.679868  131.689769  246.693069  ...    1.039604    1.600660    0.663366    0.458746
+std      9.031189    0.466912   17.585196   51.734109  ...    1.160115    0.615717    0.933603    0.498707
+min     29.000000    0.000000   94.000000  126.000000  ...    0.000000    1.000000    0.000000    0.000000
+25%     48.000000    0.000000  120.000000  211.000000  ...    0.000000    1.000000    0.000000    0.000000
+50%     56.000000    1.000000  130.000000  241.000000  ...    0.800000    2.000000    0.000000    0.000000
+75%     61.000000    1.000000  140.000000  275.000000  ...    1.600000    2.000000    1.000000    1.000000
+max     77.000000    1.000000  200.000000  564.000000  ...    6.200000    3.000000    3.000000    1.000000
+
+[8 rows x 11 columns]
+
+Target correlations:
+cp_4.0         0.516459
+thal_7.0       0.480582
+ca             0.460033
+exang          0.431894
+oldpeak        0.424510
+slope          0.339213
+sex            0.276816
+age            0.223120
+restecg_2.0    0.160400
+trestbps       0.150825
+thal_6.0       0.104864
+chol           0.085164
+age_bin        0.072440
+restecg_1.0    0.067605
+fbs            0.025264
+cp_2.0        -0.248683
+cp_3.0        -0.315141
+thalach       -0.417167
+Name: target, dtype: float64
+Saved processed dataset: cleaned_v0_05_01_26_19_15.csv
+=== PIPELINE COMPLETED SUCCESSFULLY ===

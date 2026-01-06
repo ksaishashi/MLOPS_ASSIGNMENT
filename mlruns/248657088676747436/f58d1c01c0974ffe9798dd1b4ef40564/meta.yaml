@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Bits/Mlops/notebooks/../mlruns/248657088676747436/f58d1c01c0974ffe9798dd1b4ef40564/artifacts
+end_time: 1767673114862
+entry_point_name: ''
+experiment_id: '248657088676747436'
+lifecycle_stage: active
+run_id: f58d1c01c0974ffe9798dd1b4ef40564
+run_name: Baseline_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767673111326
+status: 3
+tags: []
+user_id: SAISHASHANK

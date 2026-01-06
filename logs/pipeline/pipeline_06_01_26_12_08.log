@@ -1,0 +1,19 @@
+############################################
+### END-TO-END MLOPS PIPELINE STARTED ###
+Timestamp: 06_01_26_12_08
+############################################
+
+=== STARTING: DATA PREPROCESSING ===
+
+=== COMPLETED: DATA PREPROCESSING ===
+
+=== STARTING: MODEL TRAINING ===
+
+=== COMPLETED: MODEL TRAINING ===
+
+=== STARTING: MODEL DEPLOYMENT ===
+
+=== COMPLETED: MODEL DEPLOYMENT ===
+############################################
+### PIPELINE COMPLETED SUCCESSFULLY ###
+############################################

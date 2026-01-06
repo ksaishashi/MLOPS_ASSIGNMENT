@@ -1,0 +1,3 @@
+=== PREPROCESSING PIPELINE STARTED ===
+Data quality check failed: only 0 rows found (minimum required: 10). Pipeline stopped.
+=== PIPELINE COMPLETED (NO DATA) ===

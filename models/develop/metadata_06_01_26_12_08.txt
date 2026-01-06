@@ -1,0 +1,7 @@
+Accuracy: 0.797584541062802
+Precision: 0.8219047619047618
+Recall: 0.7223809523809523
+ROC_AUC: 0.8960571428571429
+max_depth: 5
+Training Data: cleaned_v0_25_12_25_17_43.csv
+Timestamp: 06_01_26_12_08

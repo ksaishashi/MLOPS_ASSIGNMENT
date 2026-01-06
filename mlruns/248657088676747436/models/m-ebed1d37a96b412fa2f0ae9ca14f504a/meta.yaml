@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Bits/Mlops/notebooks/../mlruns/248657088676747436/models/m-ebed1d37a96b412fa2f0ae9ca14f504a/artifacts
+creation_timestamp: 1767677967637
+experiment_id: '248657088676747436'
+last_updated_timestamp: 1767677970787
+model_id: m-ebed1d37a96b412fa2f0ae9ca14f504a
+model_type: null
+name: model
+source_run_id: a2b14bde7bad412f979b9ac56c5d3a47
+status: 2
+status_message: null

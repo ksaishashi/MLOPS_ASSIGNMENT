@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Bits/Mlops/notebooks/../mlruns/248657088676747436/209f714776d946e9939fa3e90b39fd25/artifacts
+end_time: 1767674259777
+entry_point_name: ''
+experiment_id: '248657088676747436'
+lifecycle_stage: active
+run_id: 209f714776d946e9939fa3e90b39fd25
+run_name: RandomForest_Hyperparameter_Search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767674251143
+status: 3
+tags: []
+user_id: SAISHASHANK

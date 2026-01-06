@@ -1,0 +1,29 @@
+=== RANDOM FOREST TRAINING PIPELINE STARTED ===
+Loaded data: cleaned_v0_25_12_25_17_43.csv
+Shape: (303, 18)
+Starting MLflow run: RF_ne100_mdNone_ms2_ml1
+Starting MLflow run: RF_ne200_mdNone_ms2_ml1
+Starting MLflow run: RF_ne100_mdNone_ms5_ml1
+Starting MLflow run: RF_ne200_mdNone_ms5_ml1
+Starting MLflow run: RF_ne100_mdNone_ms2_ml2
+Starting MLflow run: RF_ne200_mdNone_ms2_ml2
+Starting MLflow run: RF_ne100_mdNone_ms5_ml2
+Starting MLflow run: RF_ne200_mdNone_ms5_ml2
+Starting MLflow run: RF_ne100_md5_ms2_ml1
+Starting MLflow run: RF_ne200_md5_ms2_ml1
+Starting MLflow run: RF_ne100_md5_ms5_ml1
+Starting MLflow run: RF_ne200_md5_ms5_ml1
+Starting MLflow run: RF_ne100_md5_ms2_ml2
+Starting MLflow run: RF_ne200_md5_ms2_ml2
+Starting MLflow run: RF_ne100_md5_ms5_ml2
+Starting MLflow run: RF_ne200_md5_ms5_ml2
+Starting MLflow run: RF_ne100_md10_ms2_ml1
+Starting MLflow run: RF_ne200_md10_ms2_ml1
+Starting MLflow run: RF_ne100_md10_ms5_ml1
+Starting MLflow run: RF_ne200_md10_ms5_ml1
+Starting MLflow run: RF_ne100_md10_ms2_ml2
+Starting MLflow run: RF_ne200_md10_ms2_ml2
+Starting MLflow run: RF_ne100_md10_ms5_ml2
+Starting MLflow run: RF_ne200_md10_ms5_ml2
+Best model saved at: ..\models\develop\random_forest_best_06_01_26_12_08.pkl
+=== TRAINING PIPELINE COMPLETED SUCCESSFULLY ===

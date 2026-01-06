@@ -1,0 +1,10 @@
+2026-01-06 15:08:12.801971 ---- Model loaded successfully
+2026-01-06 15:08:13.161632 ---- Model loaded successfully
+2026-01-06 15:12:04.095190 ---- Request received: {'age': 63, 'sex': 1, 'cp': 3, 'trestbps': 145, 'chol': 233, 'fbs': 1, 'restecg': 0, 'thalach': 150, 'exang': 0, 'oldpeak': 2.3, 'slope': 0, 'ca': 0, 'thal': 1}
+2026-01-06 15:12:04.216578 ---- Prediction response: {'prediction': 0, 'confidence': 0.2799}
+2026-01-06 15:21:29.503376 ---- Request received: {'age': 63, 'sex': 1, 'cp': 3, 'trestbps': 145, 'chol': 233, 'fbs': 1, 'restecg': 0, 'thalach': 150, 'exang': 0, 'oldpeak': 2.3, 'slope': 0, 'ca': 0, 'thal': 1}
+2026-01-06 15:21:29.588374 ---- Prediction response: {'prediction': 0, 'confidence': 0.2799}
+2026-01-06 15:21:52.642532 ---- Request received: {'age': 45, 'sex': 1, 'cp': 3, 'trestbps': 105, 'chol': 233, 'fbs': 1, 'restecg': 0, 'thalach': 100, 'exang': 0, 'oldpeak': 2.3, 'slope': 2, 'ca': 0, 'thal': 1}
+2026-01-06 15:21:52.732987 ---- Prediction response: {'prediction': 0, 'confidence': 0.4279}
+2026-01-06 15:23:21.984097 ---- Request received: {'age': 45, 'sex': 1, 'cp': 3, 'trestbps': 105, 'chol': 233, 'fbs': 1, 'restecg': 0, 'thalach': 100, 'exang': 0, 'oldpeak': 2.3, 'slope': 2, 'ca': 0, 'thal': 1}
+2026-01-06 15:23:22.070927 ---- Prediction response: {'prediction': 0, 'confidence': 0.4279}

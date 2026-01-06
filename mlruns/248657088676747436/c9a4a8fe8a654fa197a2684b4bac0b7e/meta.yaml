@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Bits/Mlops/notebooks/../mlruns/248657088676747436/c9a4a8fe8a654fa197a2684b4bac0b7e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '248657088676747436'
+lifecycle_stage: active
+run_id: c9a4a8fe8a654fa197a2684b4bac0b7e
+run_name: bright-deer-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767675682060
+status: 1
+tags: []
+user_id: SAISHASHANK

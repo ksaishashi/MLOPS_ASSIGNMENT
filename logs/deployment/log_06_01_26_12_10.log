@@ -1,0 +1,6 @@
+=== MODEL DEPLOYMENT PIPELINE STARTED ===
+Develop ROC_AUC: 0.8960571428571429
+Latest ROC_AUC: 0.937979094076655
+New model does NOT outperform deployed model.
+Deployment skipped. Existing model retained.
+=== MODEL DEPLOYMENT PIPELINE COMPLETED ===

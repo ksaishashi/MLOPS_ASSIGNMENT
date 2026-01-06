@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Bits/Mlops/notebooks/../mlruns/248657088676747436/06cca003c6ba4f7f85aa4f2cc80193ea/artifacts
+end_time: 1767674252322
+entry_point_name: ''
+experiment_id: '248657088676747436'
+lifecycle_stage: active
+run_id: 06cca003c6ba4f7f85aa4f2cc80193ea
+run_name: RF_n100_dNone
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767674251194
+status: 3
+tags: []
+user_id: SAISHASHANK

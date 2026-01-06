@@ -1,0 +1,14 @@
+venvmlops/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.mlflow/
+mlruns/
+.git/
+.gitignore
+*.log
+logs/
+data/
+models/develop/
+models/archive/

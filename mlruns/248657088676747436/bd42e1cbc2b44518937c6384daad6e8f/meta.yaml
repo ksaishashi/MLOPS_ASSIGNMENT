@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Bits/Mlops/notebooks/../mlruns/248657088676747436/bd42e1cbc2b44518937c6384daad6e8f/artifacts
+end_time: 1767673111307
+entry_point_name: ''
+experiment_id: '248657088676747436'
+lifecycle_stage: active
+run_id: bd42e1cbc2b44518937c6384daad6e8f
+run_name: Baseline_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767673106802
+status: 3
+tags: []
+user_id: SAISHASHANK
