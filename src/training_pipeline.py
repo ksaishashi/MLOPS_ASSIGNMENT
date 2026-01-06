@@ -3,7 +3,7 @@
 # ==================================================
 import matplotlib
 matplotlib.use("Agg")
-
+import sys
 # ==================================================
 # IMPORTS
 # ==================================================
@@ -32,6 +32,9 @@ from sklearn.metrics import (
 import matplotlib.pyplot as plt
 import mlflow
 import mlflow.sklearn
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(PROJECT_ROOT))
 
 from src.config import PROCESSED_DIR, MODEL_DIR, MLFLOW_URI, EXPERIMENT_NAME, LOGS
 

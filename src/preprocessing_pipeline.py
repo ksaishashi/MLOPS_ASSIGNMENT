@@ -10,6 +10,8 @@ import shutil
 # --------------------------------------------------
 # Config & Paths
 # --------------------------------------------------
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(PROJECT_ROOT))
 
 from src.config import PROCESSED_DIR, RAW_LATEST_DIR, LOGS_ROOT, ARCHIVE_DIR
 

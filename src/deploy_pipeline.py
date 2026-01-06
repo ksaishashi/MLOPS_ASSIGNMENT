@@ -2,6 +2,9 @@ import shutil
 from pathlib import Path
 from datetime import datetime
 import traceback
+import sys
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(PROJECT_ROOT))
 from src.config import LOGS, LATEST_PATH, DEVELOP_DIR, ARCHIVE_DIR_model
 # --------------------------------------------------
 # CONFIGURATION

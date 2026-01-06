@@ -1,7 +1,11 @@
 import os
+import sys
+from pathlib import Path
 import requests
 import zipfile
 from io import BytesIO
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(PROJECT_ROOT))
 from src.config import DATA_DIR, DATASET_URL
 
 
